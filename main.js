@@ -31,34 +31,34 @@ const app = {
     {
       name: "Đừng xa anh nhé",
       singer: "Raftaar",
-      path: "./kmkeydauuroi.mp3",
+      path: "./nhạc/kmkeydauuroi.mp3",
       image:
-        "./thuyy.jpg"
+        "./img/thuyy.jpg"
     },
     {
       name: "Ổ Quỷ",
       singer: "Raftaar x Salim Merchant x Karma",
-      path: "./oquy.mp3",
+      path: "./nhạc/oquy.mp3",
       image:
-        "./Screenshot 2024-09-17 011149.png"
+        "./img/Screenshot 2024-09-17 011149.png"
     },
     {
       name: "Click Pow Get Down",
       singer: "Raftaar x Fortnite",
-      path: "./SojuLove-Obito-7135984.mp3",
-      image: "./obito.jpg"
+      path: "./nhạc/SojuLove-Obito-7135984.mp3",
+      image: "./img/obito.jpg"
     },
     {
       name: "Macao",
       singer: "Raftaar x Brobha V",
       path:
-        "./macao.mp3",
-      image: "./vietj nam.jpg"
+        "./nhạc/macao.mp3",
+      image: "./img/vietj nam.jpg"
     },
     {
       name: "Biên giới long binh",
       singer: "Raftaar x Nawazuddin Siddiqui",
-      path: "./Biên giới long binh remix.mp3",
+      path: "./nhạc/Biên giới long binh remix.mp3",
       image:
         "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
     },
@@ -66,21 +66,21 @@ const app = {
       name: "Chưa xong",
       singer: "Raftaar x kr$na",
       path:
-        "./Chưa xong remix.mp3",
+        "./nhạc/Chưa xong remix.mp3",
       image:
-        "./BZ_Space-Speakers_Rap-Viet__DLow-e1637645680801.jpg"
+        "./img/BZ_Space-Speakers_Rap-Viet__DLow-e1637645680801.jpg"
     },
     {
       name: "Âm thầm bên em",
       singer: "Raftaar x Harjas",
-      path: "./AmThamBenEm.mp3",
+      path: "./nhạc/AmThamBenEm.mp3",
       image:
-        "./sontung.jpg"
+        "./img/sontung.jpg"
     },
     {
       name: "Vinflow ft Tien la chi remix",
       singer: "Raftaar x Harjas",
-      path: "./Vinflow ft Tien la chi remix.mp3",
+      path: "./nhạc/Vinflow ft Tien la chi remix.mp3",
       image:
         "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
     }
